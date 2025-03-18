@@ -25,7 +25,7 @@ Este projeto é uma aplicação web simples que consome a API PokeAPI para exibi
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/janderTodero/Pok-dex-React.git
    cd seu-repositorio
    ```
 
@@ -56,4 +56,4 @@ Este projeto é uma aplicação web simples que consome a API PokeAPI para exibi
 
 ## Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [Jander Todero](https://github.com/janderTodero).
